@@ -5,6 +5,7 @@
 	using Microsoft.AspNet.Identity;
 
 	public class IdentityRole : IRole<string>
+	// sample chanege
 	{
 		public IdentityRole()
 		{
